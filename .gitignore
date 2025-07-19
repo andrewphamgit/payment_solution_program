@@ -1,0 +1,19 @@
+
+HELP.md
+target/
+.mvn
+!**/src/main/**/target/
+!**/src/test/**/target/
+mvnw
+mvnw.cmd
+.gitattributes
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Source Code ###
